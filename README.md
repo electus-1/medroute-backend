@@ -94,7 +94,7 @@ To launch the web application from the console, use:
 dotnet run --project MedRouter.WebApi/MedRouter.WebApi.csproj
 ```
 
-This will start the application and you should be able to access it at `http://localhost:5000` by default.
+This will start the application and you should be able to access it at the displayed port.
 
 ## Project Structure
 
