@@ -33,7 +33,7 @@ MedRouter is a Health Tourism app aimed at providing users with a seamless exper
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/medrouter-backend.git
+    git clone https://github.com/electus-1/medroute-backend.git
     cd medrouter-backend
     ```
 
